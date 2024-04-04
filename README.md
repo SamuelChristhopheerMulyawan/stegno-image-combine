@@ -11,3 +11,5 @@ ex : part-1.jpeg , part-2.jpeg, part-3.jpeg, etc
 you can change line 7 to part-{_}.jpeg
 
 edit function on line 32 named combine_images(your image lengh,0, images=rev_list)
+
+after that you can save and run this python script
